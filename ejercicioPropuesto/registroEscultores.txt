@@ -1,0 +1,2 @@
+Charis;Escultor;21;6;Arcilla
+Alberto;Escultor;45;20;Arcilla

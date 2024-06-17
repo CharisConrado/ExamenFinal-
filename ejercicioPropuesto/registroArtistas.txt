@@ -1,0 +1,4 @@
+Charis;Escultor;21;6;Arcilla
+Santiago;Pintor;20;5;Pintura
+Alberto;Escultor;45;20;Arcilla
+Merieth;Pintor;32;15;Pintura

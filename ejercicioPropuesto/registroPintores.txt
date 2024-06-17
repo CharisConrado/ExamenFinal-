@@ -1,0 +1,2 @@
+Santiago;Pintor;20;5;Pintura
+Merieth;Pintor;32;15;Pintura
