@@ -1,0 +1,3 @@
+2;Santiago;Mediano;NoPago
+3;Carlos;Grande;NoPago
+123;Charis;Grande;NoPago

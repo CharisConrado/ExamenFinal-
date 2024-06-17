@@ -1,0 +1,5 @@
+1;Charis;Grande;SiPago
+2;Santiago;Mediano;NoPago
+3;Carlos;Grande;NoPago
+4;Mario;Pequeño;SiPago
+123;Charis;Grande;NoPago

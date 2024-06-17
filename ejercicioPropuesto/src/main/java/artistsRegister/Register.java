@@ -45,6 +45,8 @@ public class Register {
                 pw3.println(Element.name+";"+Element.type+";"+Element.age+";"+Element.experiencie+";"+Element.materials);
             }
         }
+        
+        
         System.out.println("Registro de artistas realizado.");
         fw.close();
         pw.close();

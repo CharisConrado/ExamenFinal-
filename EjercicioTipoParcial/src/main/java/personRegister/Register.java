@@ -31,7 +31,7 @@ public class Register {
             System.out.println("Archivos creados");
         }
         
-        public void Register(ArrayList<Person> lista) throws IOException{
+         public void Register(ArrayList<Person> lista) throws IOException{
         
         FileWriter fw = new FileWriter(registro, false);
         PrintWriter pw = new PrintWriter(fw);
@@ -56,7 +56,8 @@ public class Register {
         fw3.close();
         pw3.close();
         
-        }
+       }
      
-    }
+     
+}
 }
