@@ -1,0 +1,4 @@
+1;Charis;Grande
+2;Santiago;Mediano
+3;Carlos;Grande
+4;Mario;Pequeño
